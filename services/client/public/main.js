@@ -21,7 +21,8 @@ var store = {
       general: [],
       ecs: [],
       eks: [],
-      fargate: []
+      fargate: [],
+      incruit: []
     },
 
     typing: [],

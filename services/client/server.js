@@ -142,6 +142,14 @@ io.on('connection', function(socket) {
         image: '/images/ecs.png',
         status: 'none',
         onlineCount: 0
+      },
+      {
+        id: 'incruit',
+        name: 'Incruit Developer',
+        preview: 'Incruit Developer',
+        image: '/images/ecs.png',
+        status: 'none',
+        onlineCount: 0
       }
     ]);
   });

@@ -136,14 +136,6 @@ io.on('connection', function(socket) {
         onlineCount: 0
       },
       {
-        id: 'ecs',
-        name: 'AWS ECS',
-        preview: 'AWS container orchestrator',
-        image: '/images/ecs.png',
-        status: 'none',
-        onlineCount: 0
-      },
-      {
         id: 'incruit',
         name: 'Incruit Developer',
         preview: 'Incruit Developer',
